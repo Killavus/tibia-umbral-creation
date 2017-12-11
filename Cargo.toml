@@ -1,0 +1,7 @@
+[package]
+name = "umbral_creation"
+version = "0.1.0"
+authors = ["Marcin Grzywaczewski <killavus@gmail.com>"]
+
+[dependencies]
+rand = "0.3.18"
